@@ -44,3 +44,36 @@ Wireframes also demonstrate interactive features and user actions such as clicki
 **Example:** In an e-commerce wireframe, including an "Add to Cart" button and a search bar shows how users will interact with the product before styling or development begins.
 
 Each of these elements plays a crucial role in shaping user experience and ensuring that the final design is intuitive, efficient, and aligned with user needs.
+
+## Types of Wireframes
+
+Wireframes can vary in complexity and detail depending on the stage of the design process. The two primary types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are simple, rough sketches that outline the basic layout and structure of a user interface. They focus on functionality and content placement without any design details like colors, fonts, or images.
+
+**Used for:**
+- Early-stage brainstorming
+- Fast iterations and feedback
+- Validating ideas with stakeholders
+
+**Example:** A black-and-white sketch showing where the navigation bar, images, and buttons will go without specific design features.
+
+### High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are detailed and closer to the final design. They include specific UI components, typography, images, and even some interactivity to simulate the actual user experience.
+
+**Used for:**
+- Usability testing
+- Design handoff to developers
+- Final approval from stakeholders
+
+**Example:** A fully designed screen in Figma with styled buttons, icons, and real text that closely resembles the end product.
+
+---
+
+## What Type of Wireframe is Here?
+
+The wireframe presented in this repository is a **Low-Fidelity Wireframe**.  
+It focuses on structure, navigation flow, and key layout components without applying color schemes, final images, or interactivity. This helps establish a shared understanding of the interface before moving into high-fidelity prototyping or development.
