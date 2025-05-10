@@ -132,3 +132,31 @@ By focusing on structure and functionality rather than aesthetics, wireframes he
 **Example:** A wireframe might reveal that key actions like “Book Now” are placed too low on the screen, leading to an early adjustment that improves user accessibility.
 
 Wireframes streamline the design and development process, reduce risk, and ultimately contribute to creating more intuitive and successful software products.
+
+## Wireframing in Practice
+
+### Real-World Scenario: Booking System Redesign
+
+In a project involving the redesign of an online hotel booking system, the initial wireframes revealed a critical usability issue during the early stages of planning. The wireframe showed a cluttered layout where the “Search” and “Book Now” buttons were too close together, leading to confusion during user testing. Additionally, important filters like “Price Range” and “Room Type” were buried deep in a sidebar menu, making them hard to find.
+
+### Identified Issues:
+- Confusing button placement leading to accidental bookings.
+- Low visibility of essential filtering options.
+- Poor navigation hierarchy with multiple clicks required to perform common tasks.
+
+### How Wireframing Helped:
+Before any code was written, the team used Figma to revise the wireframe:
+- The action buttons were spaced out and visually grouped by context.
+- Filter options were moved above the search results and made collapsible for better accessibility.
+- A step-by-step booking flow was introduced, reducing cognitive load.
+
+These changes were validated through early user feedback sessions based solely on the wireframes, without needing to build a functional prototype.
+
+### Impact on the Final Product:
+- Improved user satisfaction and task success rate.
+- Reduced development time and rework due to early issue resolution.
+- Achieved clearer alignment between design, development, and business teams.
+
+### Conclusion
+
+This case highlights the power of wireframing as a proactive tool in UI/UX design. By identifying usability issues early, wireframes prevent costly errors, encourage collaborative problem-solving, and ensure the final product is both functional and user-friendly. Wireframing is not just a visual planning step—it’s a strategic asset in building successful digital experiences.
