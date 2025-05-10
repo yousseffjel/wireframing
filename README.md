@@ -77,3 +77,28 @@ High-fidelity (hi-fi) wireframes are detailed and closer to the final design. Th
 
 The wireframe presented in this repository is a **Low-Fidelity Wireframe**.  
 It focuses on structure, navigation flow, and key layout components without applying color schemes, final images, or interactivity. This helps establish a shared understanding of the interface before moving into high-fidelity prototyping or development.
+
+## Wireframing Tools
+
+There are several tools available to create wireframes, each offering different levels of functionality, collaboration, and ease of use. Choosing the right tool depends on the project needs, team workflow, and personal preference.
+
+### Popular Wireframing Tools
+
+- **Figma** – Cloud-based collaborative design tool ideal for wireframes and prototypes.
+- **Balsamiq** – Focuses on low-fidelity wireframes with a sketch-like interface.
+- **Sketch** – A macOS design tool often used for UI/UX and high-fidelity wireframes.
+- **Adobe XD** – Provides both design and prototyping capabilities with Adobe ecosystem integration.
+- **Wireframe.cc** – Minimalist web-based tool for quick wireframing.
+
+### Why Use Figma?
+
+Figma is highly recommended for wireframing because of its intuitive interface and real-time collaboration features. It works directly in the browser or as a desktop app, making it accessible and flexible for teams of all sizes.
+
+**Key Features of Figma:**
+- **Real-time Collaboration:** Multiple team members can edit or comment on a wireframe simultaneously.
+- **Component System:** Reusable design elements for consistency and speed.
+- **Prototyping Capabilities:** Turn static wireframes into interactive flows without leaving the app.
+- **Cross-platform Access:** Works on Windows, macOS, and Linux via browser.
+- **Version Control:** Tracks changes and allows reverting to earlier versions easily.
+
+Figma bridges the gap between design and development, making it a powerful choice for creating both low-fidelity and high-fidelity wireframes efficiently.
